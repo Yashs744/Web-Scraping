@@ -18,3 +18,12 @@ python Facets.py
 ```
 
 ![Facet](https://github.com/Yashs744/Web-Scraping/blob/master/Screenshots/facet-1.png)
+
+## 3. Jagodibuja
+   Script to Download Comic from [Jagodibuja](http://www.jagodibuja.com/)
+   
+```sh
+python jagodibuja.py
+```
+
+![Jagodibuja](https://github.com/Yashs744/Web-Scraping/blob/master/Screenshots/Jagodibuja.png)
